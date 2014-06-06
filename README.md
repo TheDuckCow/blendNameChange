@@ -1,7 +1,7 @@
 blendNameChange
 ===============
 
-This little script will help rename the of most attributes of an object and its properties, useful for renaming parts of a reusable asset
+This little script will help rename the of most attributes of an object and its properties, useful for renaming parts of a reusable asset. *When enabled, this panel appears under the "Tools" tab of the toolshelf in the 3D view*.
 
 How to use
 ===============
